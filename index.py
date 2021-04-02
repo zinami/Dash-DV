@@ -3,7 +3,7 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
-# Connect to main app.py file
+# Connect to main index.py file
 from app import app
 from app import server
 
