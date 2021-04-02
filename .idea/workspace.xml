@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef776afa-4a22-4dc5-9b87-58f8d7fdb5cd" name="Default Changelist" comment="requirements3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/analysisCompany.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/analysisCompany.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/analysisLocation.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/analysisLocation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/analysisSalary.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/analysisSalary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/overall.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/overall.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef776afa-4a22-4dc5-9b87-58f8d7fdb5cd" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dashboard-Glassdoor" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -95,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617383138564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1617384329640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617384329640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +111,7 @@
     <MESSAGE value="requirements" />
     <MESSAGE value="requirements2" />
     <MESSAGE value="requirements3" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements3" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
