@@ -1,1 +1,1 @@
-web: gunircorn index:server
+web: gunircorn app:server
